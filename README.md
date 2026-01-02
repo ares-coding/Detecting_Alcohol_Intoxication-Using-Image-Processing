@@ -84,11 +84,6 @@ The hybrid approach uses CNN for feature extraction and SVM for final classifica
 ---
 
 ## 📌 Project Status
-
----
-
-## Project Status
-
 - Successfully deployed and tested on Android Emulator and real Android device
 - Model retraining is currently in progress using an expanded dataset (20k+ images)
 
