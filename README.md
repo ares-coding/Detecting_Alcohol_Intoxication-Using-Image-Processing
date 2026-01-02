@@ -85,7 +85,7 @@ The hybrid approach uses CNN for feature extraction and SVM for final classifica
 
 ## 📌 Project Status
 - Successfully deployed and tested on Android Emulator and real Android device
-- Model retraining is currently in progress using an expanded dataset (20k+ images)
+- Model retraining is currently in progress using an expanded dataset of 20k+ images of Drunk,and 20k+ Normal images. 
 
 
 
